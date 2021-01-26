@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM docker.io/alpine:latest
 
 MAINTAINER alex <alexwhen@gmail.com> 
 
